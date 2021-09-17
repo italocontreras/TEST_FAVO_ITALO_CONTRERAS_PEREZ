@@ -1,5 +1,5 @@
 # LEEME
-La solución a la prueba (TEST_FAVO_ITALO_CONTRERAS_PEREZ.ipynb) consta de las siguientes partes
+La solución a la prueba (PROCESO.ipynb) consta de las siguientes partes
 
 1)Importación de librerias e instalación de lo necesario
 
